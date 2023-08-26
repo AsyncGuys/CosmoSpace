@@ -11,13 +11,6 @@
 .btn {
   @apply font-bold py-2 px-4 rounded apptransition;
 }
-.btn-green {
-  @apply bg-[#66bb6a] text-white border-[1px] border-[#66bb6a];
-}
-.btn-green:hover {
-  @apply bg-[#f8cc2b] disabled:bg-none;
-}
-
 .btn-blue {
   @apply text-white border-[1px] border-red-600;
 }
