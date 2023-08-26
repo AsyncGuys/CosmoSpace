@@ -1,5 +1,5 @@
 {
-  "name": "astro",
+  "name": "cosmospace",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -14,10 +14,14 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-three/fiber": "^8.13.7",
+    "@types/three": "^0.155.1",
+    "firebase": "^10.3.0",
     "jest-environment-jsdom": "^29.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.15.0"
+    "react-router-dom": "^6.15.0",
+    "three": "^0.155.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.10",
