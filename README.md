@@ -1,16 +1,36 @@
 
-# React-TypeScript Testing Library and Tailwind CSS Template
+# CosmpSpace
 
-Unlike Create-React-App, Vite doesnt come by default with Testing Library, Jest setup with it . So, this repository can help you out in quickly getting started.
+## Discovering Asteroid Dimensions: Unveiling the Universe's Spheres . Build during IIITD's Spacehack 2023.
+
+# Preview 
+![image](https://github.com/AsyncGuys/Cosmo-Space-Frontend/assets/90555965/cc9be2d9-32e3-451c-8067-cb8129bad1cc)
+
+![image](https://github.com/AsyncGuys/Cosmo-Space-Frontend/assets/90555965/8e530799-f967-4836-ab91-9c9a32255174)
 
 
-## Features
 
+# Team - Team Rocket
+
+-[Amit Jimiwal](https://github.com/amitjimiwal).
+-[Shivang Rawat](https://github.com/ShivangRawat30).
+-[Armaan Seth](https://github.com/ArmaanSeth).
+-[Rishabh Joshi](https://github.com/rishabhjoshii).
+
+
+## Tech Stack
 - **[React](https://react.dev)**: A popular JavaScript library for building user interfaces.
 - **[Typescript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that helps catch errors early and improve code quality.
 - **[Jest](https://jestjs.io/)**: A testing utility for writing unit and integration tests with a user-centric approach.
 - **[React-Testing-Library](https://testing-library.com/)**: A testing library for React for writing unit and integration tests with a user-centric approach.
 - **[Tailwind](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom designs.
+- **[Python](https://img.shields.io/badge/Python-3.x-blue.svg)**
+- **[Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit%20Learn-yellow.svg)**
+- **[Flask](https://img.shields.io/badge/Flask-2.x-green.svg)**:It provides a RESTful API powered by Flask, making it easy to send data and receive predictions.
+
+
+It's a Flask-based backend for a Python Machine Learning model. It allows you to serve your trained model via an API, making it accessible for predictions and integration into other applications.
+You can find the backend code **[here](https://github.com/AsyncGuys/CosmoSpace_Backend).**
 
 ## Getting Started
 Follow these steps to set up a new project based on this template:
@@ -20,7 +40,7 @@ Follow these steps to set up a new project based on this template:
 2. Clone your newly created repository to your local machine:
 
    ```bash
-   git clone https://github.com/amitjimiwal/React-ts-jest-template.git
+   git clone https://github.com/AsyncGuys/Cosmo-Space-Frontend.git
    ```
 
 3. Navigate to the project directory:
