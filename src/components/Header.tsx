@@ -1,11 +1,10 @@
 import React from "react";
 import { useState, useEffect } from "react";
-// convert  into arrow function component
 
 const Header :React.FC = () => {
   const [text, setT] = useState<string>("");
   const f = () => console.log("");
-  const t = "Discovering Asteroid Dimensions: Unveiling the Universe's Spheres";
+  const t = "Discovering Asteroid Dimensions";
   function type(s = 100, i = 0, d = 0) {
     setInterval(
       () => (

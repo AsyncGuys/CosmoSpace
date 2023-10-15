@@ -8,7 +8,6 @@ import { Link } from "react-router-dom";
 const Home: React.FC = () => {
   return (
     <div className="w-full h-auto">
-      <Navbar />
       <div className="w-full text-6xl h-screen text-white p-10 grid place-items-center gap-2">
         <p className="font-extrabold tracking-wider mb-5">
           Welcome to CosmoSpace !

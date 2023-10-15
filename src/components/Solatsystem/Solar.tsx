@@ -2,7 +2,7 @@ import React from "react";
 import "./Solar.css";
 const Solar: React.FC = () => {
   return (
-    <div className="fixed w-screen h-auto -z-10">
+    <div className="fixed w-screen h-auto -z-10 overflow-hidden">
       <section id="solar-system">
         <div id="sun"></div>
         <article id="mercury-trajectory">
